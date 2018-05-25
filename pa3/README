@@ -1,0 +1,16 @@
+// Michelle Ly
+// mly8
+// pa3
+
+Contents:
+        Sparse.java
+        Matrix.java
+        List.java
+        MatrixTest.java
+        ListTest.java
+        Makefile
+        README
+Notes:
+- In Sparse.java, I was not able to read in the 3rd row of data, 
+        which affected my operation results.
+- In Matrix.java, mult() has a few issues; the zeros still appear.

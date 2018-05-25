@@ -1,0 +1,13 @@
+// Michelle Ly
+// mly8
+// pa5
+
+Contents:
+        README
+        Makefile
+        List.c
+        List.h
+        Graph.h
+        Graph.c
+        GraphTest.c
+        FindComponents.c 
